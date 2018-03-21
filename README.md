@@ -21,4 +21,4 @@ set -a;. .env gradle bootRun
 
 Usage example 
 ---------------
-curl 'http://localhost:8080/metrics/metric1'
+curl 'http://localhost:8080/metrics/count'
